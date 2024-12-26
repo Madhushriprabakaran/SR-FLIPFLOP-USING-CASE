@@ -84,3 +84,4 @@ RegisterNumber:24005365
 
 **RESULTS**
 SR flipflop using verilog is verified.
+
